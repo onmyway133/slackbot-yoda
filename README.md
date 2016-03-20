@@ -2,6 +2,12 @@
 
 Echo Yoda sayings
 
+## Usage
+
+```
+BOT_API_KEY=api_key node bin/bot.js
+```
+
 ## Author
 
 Khoa Pham, onmyway133@gmail.com
